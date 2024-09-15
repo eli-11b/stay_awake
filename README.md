@@ -7,6 +7,8 @@ Presses a key every 5 minutes to keep windows laptop alive or in a chat window.
 2. copy and paste code
 3. Press play
 
+<img src="https://github.com/user-attachments/assets/54e4434e-2582-4b40-8e9e-f1a8699954af" height="350">
+
 ### Done! 
 
 # Questions?
