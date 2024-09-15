@@ -9,6 +9,11 @@ Presses a key every 5 minutes to keep windows laptop alive or in a chat window.
 
 <img src="https://github.com/user-attachments/assets/54e4434e-2582-4b40-8e9e-f1a8699954af" height="350">
 
+Prints out time elapsed
+
+<img src="https://github.com/user-attachments/assets/7ee83da8-bf0a-43b8-8b34-61da85087384" height="250">
+
+
 ### Done! 
 
 # Questions?
